@@ -64,12 +64,12 @@ ul li {
 	height: 40px;
 }
 button {
-	background: #68B25B;
-	box-shadow: 0 3px 0 0 #6A845F;
+	background: #088DA5;
+	box-shadow: 0 3px 0 0 #056273;
 	color: #fff;
 	outline: none;
 	cursor: pointer;
-	text-shadow: 0 1px #6A845F;
+	text-shadow: 0 1px #056273;
 	display: block;
 	font-size: 16px;
 	line-height: 40px;
